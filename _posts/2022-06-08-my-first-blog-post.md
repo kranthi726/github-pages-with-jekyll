@@ -1,2 +1,4 @@
-title: "YOUR-TITLE"
+---
+title: "Your blog post title"
 date: YYYY-MM-DD
+---
