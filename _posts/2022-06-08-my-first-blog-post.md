@@ -1,1 +1,2 @@
-Tittle of the file 
+title: "YOUR-TITLE"
+date: YYYY-MM-DD
